@@ -78,8 +78,6 @@ Mỗi thư mục đều có `README.md` riêng, liệt kê thử thách, điểm
 ## ⚖️ Ghi công & miễn trừ
 
 - Nội dung chuyên môn trong repo là công sức của **team S133p** trong quá trình luyện tập và thi đấu CTF.
-- Repo được tổng hợp và chuẩn hóa lại cấu trúc từ repo gốc của team: [Tr4nV4nH04ngNS018/write-up-CTF](https://github.com/Tr4nV4nH04ngNS018/write-up-CTF).
-- Repo đăng trên tài khoản cá nhân của **Nguyễn Anh Kiệt** như một phần hồ sơ năng lực (portfolio); nội dung chuyên môn vẫn thuộc về team S133p.
 - Toàn bộ cờ (flag) đều thuộc các giải đấu đã kết thúc; tài liệu chỉ phục vụ mục đích học tập và nghiên cứu bảo mật.
 
 ---
